@@ -1,0 +1,17 @@
+Exercise v3.0 Menu × × Correct! Exercise: Add a tooltip to the paragraph below with the text "About W3Schools". Hint: Use the title attribute. Edit This Code: Check Your Code » <!DOCTYPE html>
+<html>
+<body>
+
+<p>W3Schools is a web developer's site.</p>
+
+</body>
+</html>
+ Result: Show Answer Correct Code: Dummy <!DOCTYPE html>
+<html>
+<body>
+
+<p title="About W3Schools">W3Schools is a web developer's site.</p>
+
+</body>
+</html>
+ Result: Hide Answer Go to w3schools.com Reset Score Close This Menu HTML Attributes Exercise 1 Exercise 2 Exercise 3 Exercise 4 Exercise 5Go to HTML Attributes tutorial HTML Headings Exercise 1 Exercise 2 Exercise 3 Exercise 4Go to HTML Headings tutorial HTML Paragraphs Exercise 1 Exercise 2 Exercise 3 Exercise 4Go to HTML Paragraphs tutorial HTML Styles Exercise 1 Exercise 2 Exercise 3 Exercise 4 Exercise 5 Exercise 6Go to HTML Styles tutorial HTML Formatting Exercise 1 Exercise 2 Exercise 3 Exercise 4 Exercise 5Go to HTML Formatting tutorial HTML Quotations Exercise 1 Exercise 2 Exercise 3 Exercise 4Go to HTML Quotations tutorial HTML Comments Exercise 1 Exercise 2Go to HTML Comments tutorial HTML CSS Exercise 1 Exercise 2 Exercise 3 Exercise 4 Exercise 5 Exercise 6Go to HTML CSS tutorial HTML Links Exercise 1 Exercise 2 Exercise 3 Exercise 4 Exercise 5Go to HTML Links tutorial HTML Images Exercise 1 Exercise 2 Exercise 3 Exercise 4 Exercise 5 Exercise 6Go to HTML Images tutorial HTML Tables Exercise 1 Exercise 2 Exercise 3 Exercise 4 Exercise 5 Exercise 6Go to HTML Tables tutorial HTML Lists Exercise 1 Exercise 2 Exercise 3 Exercise 4 Exercise 5 Exercise 6Go to HTML Lists tutorial HTML Classes Exercise 1 Exercise 2 Exercise 3Go to HTML Classes tutorial HTML Id Exercise 1 Exercise 2Go to HTML Id tutorial HTML Iframes Exercise 1 Exercise 2 Exercise 3 Exercise 4Go to HTML Iframes tutorial HTML Scripts Exercise 1 Exercise 2 Exercise 3 Exercise 4Go to HTML Scripts tutorial HTML Computercode Exercise 1 Exercise 2 Exercise 3Go to HTML Computercode tutorial HTML Forms Exercise 1 Exercise 2 Exercise 3 Exercise 4Go to HTML Forms tutorial HTML Form Elements Exercise 1 Exercise 2 Exercise 3Go to HTML Form Elements tutorial HTML Input Types Exercise 1 Exercise 2 Exercise 3 Exercise 4 Exercise 5Go to HTML Input Types tutorial HTML Form Attributes Exercise 1 Exercise 2 Exercise 3 Exercise 4Go to HTML Form Attributes tutorial × Reset the Score? This will reset the score of ALL 91 exercises. Are you sure you want to continue? Reset Cancel × Congratulations! You have finished all 91 HTML exercises. Share your score on facebook: Get Certified! Take our HTML Developer Certificate to prove that you have fundamental knowledge of web development using HTML. Get Certified Now! Close

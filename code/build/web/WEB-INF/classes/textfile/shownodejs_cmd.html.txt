@@ -1,0 +1,4 @@
+Tryit Editor v3.5 - Show Node.js Command Prompt demo_intro_cmd.js: 
+console.log('This example is different!');
+console.log('The result is displayed in the Command Line Interface');
+ C:\Users\My Name>node demo_intro_cmd.js This example is different! The result is displayed in the Command Line Interface

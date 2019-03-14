@@ -1,0 +1,3 @@
+Tryit Editor v3.5 - Show Python demo_default.py: 
+print("Hello, World!")
+ C:\Users\My Name>python demo_default.py Hello, World!

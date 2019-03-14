@@ -1,0 +1,55 @@
+Tryit Editor v3.6 × Save Your Code If you click the save button, your code will be saved, and you get an URL you can share with others. Save Cancel By clicking the "Save" button you agree to our terms and conditions. Report Error All code in shared files are supplied by users, and belongs to the poster. All shared files are made public. No license is enforced. Any code can be removed without warning (if it is deemed offensive, damaging or for any other reason). w3schools.com are not responsible or liable for any loss or damage of any kind during the usage of provided code. Your Code Could Not be Saved The code has too many characters. Your Code has Been Saved File has been saved to: × Save to Google Drive If you have a Google account, you can save this code to your Google Drive. Google will ask you to confirm Google Drive access. Save file as: Save file × Open from Google Drive If you have saved a file to Google Drive, you can open it here: Open file Run » × Change Orientation Save Code Save to Google Drive Load from Google Drive Change Theme, Dark/Light Privacy policy and Copyright 1999-2018 <!DOCTYPE html>
+<html>
+<title>W3.CSS Template</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+
+<div class="w3-display-container" style="margin-bottom:50px">
+  <img src="/w3images/beach3.jpg" style="width:100%">
+  <div class="w3-display-bottomleft w3-container w3-amber w3-hover-orange w3-hide-small"
+   style="bottom:10%;opacity:0.7;width:70%">
+  <h2><b>4 Good Reasons<br>For travelling with us</b></h2>
+</div>
+</div>
+
+<div class="w3-row w3-container" style="margin:50px 0">
+<div class="w3-half w3-container">
+  <div class="w3-topbar w3-border-amber">
+    <img src="/w3images/cellphone.jpg" style="width:100%">
+    <h2>Smart Vacation</h2>
+    <p>Full vacation control from your cell phone.</p>
+  </div>
+</div>
+
+<div class="w3-half w3-container">
+  <div class="w3-topbar w3-border-amber">
+    <img src="/w3images/sealions.jpg" style="width:100%">
+    <h2>Super Offers</h2>
+    <p>Up to 50% offers. Always 25% student offers.</p>
+  </div>
+</div>
+</div>
+
+<div class="w3-row w3-container" style="margin:50px 0">
+<div class="w3-half w3-container">
+  <div class="w3-topbar w3-border-orange">
+    <img src="/w3images/truck.jpg" style="width:100%">
+    <h2>Car Rental Included</h2>
+    <p>Wherever you travel our car rental is included.</p>
+  </div>
+</div>
+
+<div class="w3-half w3-container">
+  <div class="w3-topbar w3-border-orange">
+    <img src="/w3images/nowornever.jpg" style="width:100%">
+    <h2>Realize Your Dreams</h2>
+    <p>Don't wait until it is to late.</p>
+    </div>
+</div>
+</div>
+
+</body>
+</html>
+ × Report a Problem: Your E-mail: Page address: Description: Submit
